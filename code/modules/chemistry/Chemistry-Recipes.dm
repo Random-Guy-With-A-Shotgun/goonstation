@@ -1466,7 +1466,7 @@
 		name = "Mutini"
 		id = "mutini"
 		result = "mutini"
-		required_reagents = list("martini" = 1, "mutagen" = 4, "mutadone" = 1, "neurotoxin" = 1, "mannitol" = 1)
+		required_reagents = list("martini" = 1, "mutagen" = 4, "mutadone" = 1, "methamphetamine" = 1, "mannitol" = 1)
 		result_amount = 4
 		mix_phrase = "The martini gains a soft green glow."
 		mix_sound = 'sound/misc/drinkfizz.ogg'
